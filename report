@@ -1,0 +1,637 @@
+************************Changed Table Report*************************
+
+Compare Table assessment_aiclassifier
+PASSED
+Compare Table assessment_aiclassifierset
+PASSED
+Compare Table assessment_aigradingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow_training_examples
+PASSED
+Compare Table assessment_assessment
+PASSED
+Compare Table assessment_assessmentfeedback
+PASSED
+Compare Table assessment_assessmentfeedback_assessments
+PASSED
+Compare Table assessment_assessmentfeedback_options
+PASSED
+Compare Table assessment_assessmentfeedbackoption
+PASSED
+Compare Table assessment_assessmentpart
+PASSED
+Compare Table assessment_criterion
+1,4d0
+FAILED
+deleted_rec :  4
+added_rec :  0
+changed_rec : 0
+Compare Table assessment_criterionoption
+1,13d0
+FAILED
+deleted_rec :  13
+added_rec :  0
+changed_rec : 0
+Compare Table assessment_peerworkflow
+PASSED
+Compare Table assessment_peerworkflowitem
+PASSED
+Compare Table assessment_rubric
+1,2d0
+FAILED
+deleted_rec :  2
+added_rec :  0
+changed_rec : 0
+Compare Table assessment_studenttrainingworkflow
+PASSED
+Compare Table assessment_studenttrainingworkflowitem
+PASSED
+Compare Table assessment_trainingexample
+PASSED
+Compare Table assessment_trainingexample_options_selected
+PASSED
+Compare Table auth_group
+PASSED
+Compare Table auth_group_permissions
+PASSED
+Compare Table auth_permission
+65,94c65,94
+128,589c128,430
+FAILED
+deleted_rec :  492
+added_rec :  333
+changed_rec : 333
+Compare Table auth_registration
+2,6c2,7
+FAILED
+deleted_rec :  5
+added_rec :  6
+changed_rec : 6
+Compare Table auth_user
+2,6c2,8
+FAILED
+deleted_rec :  5
+added_rec :  7
+changed_rec : 7
+Compare Table auth_user_groups
+PASSED
+Compare Table auth_user_user_permissions
+PASSED
+Compare Table auth_userprofile
+1,6c1,7
+FAILED
+deleted_rec :  6
+added_rec :  7
+changed_rec : 7
+Compare Table bulk_email_courseauthorization
+PASSED
+Compare Table bulk_email_courseemail
+PASSED
+Compare Table bulk_email_courseemailtemplate
+PASSED
+Compare Table bulk_email_optout
+PASSED
+Compare Table celery_taskmeta
+PASSED
+Compare Table celery_tasksetmeta
+PASSED
+Compare Table certificates_certificatewhitelist
+1,4d0
+FAILED
+deleted_rec :  4
+added_rec :  0
+changed_rec : 0
+Compare Table certificates_generatedcertificate
+PASSED
+Compare Table circuit_servercircuit
+PASSED
+Compare Table course_action_state_coursererunstate
+PASSED
+Compare Table course_creators_coursecreator
+PASSED
+Compare Table course_groups_courseusergroup
+PASSED
+Compare Table course_groups_courseusergroup_users
+PASSED
+Compare Table course_groups_courseusergrouppartitiongroup
+PASSED
+Compare Table course_modes_coursemode
+PASSED
+Compare Table course_modes_coursemodesarchive
+PASSED
+Compare Table courseware_course_subject
+PASSED
+Compare Table courseware_offlinecomputedgrade
+PASSED
+Compare Table courseware_offlinecomputedgradelog
+PASSED
+Compare Table courseware_organization
+0a1,3
+FAILED
+deleted_rec :  2
+added_rec :  5
+changed_rec : 3
+Compare Table courseware_studentmodule
+0a1,21
+FAILED
+deleted_rec :  0
+added_rec :  21
+changed_rec : 21
+Compare Table courseware_studentmodulehistory
+0a1,28
+FAILED
+deleted_rec :  0
+added_rec :  28
+changed_rec : 28
+Compare Table courseware_subject
+PASSED
+Compare Table courseware_xmodulestudentinfofield
+0a1,2
+FAILED
+deleted_rec :  0
+added_rec :  2
+changed_rec : 2
+Compare Table courseware_xmodulestudentprefsfield
+PASSED
+Compare Table courseware_xmoduleuserstatesummaryfield
+PASSED
+Compare Table dark_lang_darklangconfig
+2c2,3
+FAILED
+deleted_rec :  1
+added_rec :  2
+changed_rec : 2
+Compare Table django_admin_log
+0a1,21
+FAILED
+deleted_rec :  0
+added_rec :  21
+changed_rec : 21
+Compare Table django_comment_client_permission
+PASSED
+Compare Table django_comment_client_permission_roles
+6,9c6,9
+14,17c14,17
+22,25c22,25
+29,31c29,31
+35,37c35,37
+41,43c41,43
+47,49c47,49
+54,57c54,57
+62,65c62,65
+67c67
+71,73c71,73
+77,79c77,79
+84,87c84,87
+92,95c92,95
+100,103c100,103
+108,111c108,111
+116,119c116,119
+124,127c124,127
+FAILED
+deleted_rec :  63
+added_rec :  63
+changed_rec : 63
+Compare Table django_comment_client_role
+2,9c2,9
+FAILED
+deleted_rec :  8
+added_rec :  8
+changed_rec : 8
+Compare Table django_comment_client_role_users
+2,5c2,3
+FAILED
+deleted_rec :  4
+added_rec :  2
+changed_rec : 2
+Compare Table django_content_type
+23,32c23,32
+44,196c44,143
+FAILED
+deleted_rec :  163
+added_rec :  110
+changed_rec : 110
+Compare Table django_openid_auth_association
+PASSED
+Compare Table django_openid_auth_nonce
+PASSED
+Compare Table django_openid_auth_useropenid
+PASSED
+Compare Table django_session
+PASSED
+Compare Table django_site
+PASSED
+Compare Table djcelery_crontabschedule
+PASSED
+Compare Table djcelery_intervalschedule
+PASSED
+Compare Table djcelery_periodictask
+PASSED
+Compare Table djcelery_periodictasks
+PASSED
+Compare Table djcelery_taskstate
+PASSED
+Compare Table djcelery_workerstate
+PASSED
+Compare Table edxval_coursevideo
+PASSED
+Compare Table edxval_encodedvideo
+PASSED
+Compare Table edxval_profile
+PASSED
+Compare Table edxval_subtitle
+PASSED
+Compare Table edxval_video
+PASSED
+Compare Table embargo_embargoedcourse
+PASSED
+Compare Table embargo_embargoedstate
+PASSED
+Compare Table embargo_ipfilter
+PASSED
+Compare Table external_auth_externalauthmap
+PASSED
+Compare Table foldit_puzzlecomplete
+PASSED
+Compare Table foldit_score
+PASSED
+Compare Table instructor_task_instructortask
+0a1,6
+FAILED
+deleted_rec :  0
+added_rec :  6
+changed_rec : 6
+Compare Table licenses_coursesoftware
+PASSED
+Compare Table licenses_userlicense
+PASSED
+Compare Table linkedin_linkedin
+PASSED
+Compare Table lms_xblock_xblockasidesconfig
+PASSED
+Compare Table notes_note
+PASSED
+Compare Table notifications_articlesubscription
+PASSED
+Compare Table notify_notification
+PASSED
+Compare Table notify_notificationtype
+PASSED
+Compare Table notify_settings
+PASSED
+Compare Table notify_subscription
+PASSED
+Compare Table oauth2_accesstoken
+PASSED
+Compare Table oauth2_client
+PASSED
+Compare Table oauth2_grant
+PASSED
+Compare Table oauth2_provider_trustedclient
+PASSED
+Compare Table oauth2_refreshtoken
+PASSED
+Compare Table psychometrics_psychometricdata
+PASSED
+Compare Table reverification_midcoursereverificationwindow
+PASSED
+Compare Table shoppingcart_certificateitem
+PASSED
+Compare Table shoppingcart_coupon
+PASSED
+Compare Table shoppingcart_couponredemption
+PASSED
+Compare Table shoppingcart_courseregcodeitem
+PASSED
+Compare Table shoppingcart_courseregcodeitemannotation
+PASSED
+Compare Table shoppingcart_courseregistrationcode
+PASSED
+Compare Table shoppingcart_donation
+PASSED
+Compare Table shoppingcart_donationconfiguration
+PASSED
+************************Changed Table Report*************************
+
+Compare Table assessment_aiclassifier
+PASSED
+Compare Table assessment_aiclassifierset
+PASSED
+Compare Table assessment_aigradingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow_training_examples
+PASSED
+Compare Table assessment_assessment
+PASSED
+Compare Table assessment_assessmentfeedback
+PASSED
+Compare Table assessment_assessmentfeedback_assessments
+PASSED
+Compare Table assessment_assessmentfeedback_options
+PASSED
+Compare Table assessment_assessmentfeedbackoption
+PASSED
+Compare Table assessment_assessmentpart
+PASSED
+Compare Table assessment_criterion
+PASSED
+Compare Table assessment_criterionoption
+PASSED
+Compare Table assessment_peerworkflow
+FAILED
+deleted_rec :  3161
+added_rec :  3161
+changed_rec : 3161
+Compare Table assessment_peerworkflowitem
+PASSED
+Compare Table assessment_rubric
+PASSED
+Compare Table assessment_studenttrainingworkflow
+PASSED
+Compare Table assessment_studenttrainingworkflowitem
+PASSED
+Compare Table assessment_trainingexample
+PASSED
+Compare Table assessment_trainingexample_options_selected
+PASSED
+Compare Table auth_group
+PASSED
+************************Changed Table Report*************************
+
+Compare Table assessment_aiclassifier
+PASSED
+Compare Table assessment_aiclassifierset
+PASSED
+Compare Table assessment_aigradingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow_training_examples
+PASSED
+Compare Table assessment_assessment
+PASSED
+Compare Table assessment_assessmentfeedback
+PASSED
+Compare Table assessment_assessmentfeedback_assessments
+PASSED
+Compare Table assessment_assessmentfeedback_options
+PASSED
+Compare Table assessment_assessmentfeedbackoption
+PASSED
+Compare Table assessment_assessmentpart
+PASSED
+Compare Table assessment_criterion
+PASSED
+Compare Table assessment_criterionoption
+PASSED
+Compare Table assessment_peerworkflow
+PASSED
+Compare Table assessment_peerworkflowitem
+PASSED
+Compare Table assessment_rubric
+PASSED
+Compare Table assessment_studenttrainingworkflow
+PASSED
+Compare Table assessment_studenttrainingworkflowitem
+PASSED
+Compare Table assessment_trainingexample
+PASSED
+Compare Table assessment_trainingexample_options_selected
+PASSED
+Compare Table auth_group
+PASSED
+Compare Table auth_group_permissions
+PASSED
+Compare Table auth_permission
+PASSED
+Compare Table auth_registration
+PASSED
+Compare Table auth_user
+PASSED
+Compare Table auth_user_groups
+PASSED
+Compare Table auth_user_user_permissions
+PASSED
+Compare Table auth_userprofile
+PASSED
+Compare Table bulk_email_courseauthorization
+PASSED
+Compare Table bulk_email_courseemail
+PASSED
+Compare Table bulk_email_courseemailtemplate
+PASSED
+Compare Table bulk_email_optout
+PASSED
+Compare Table celery_taskmeta
+PASSED
+Compare Table celery_tasksetmeta
+PASSED
+Compare Table certificates_certificatewhitelist
+PASSED
+Compare Table certificates_generatedcertificate
+PASSED
+Compare Table circuit_servercircuit
+PASSED
+Compare Table course_action_state_coursererunstate
+PASSED
+Compare Table course_creators_coursecreator
+PASSED
+Compare Table course_groups_courseusergroup
+PASSED
+Compare Table course_groups_courseusergroup_users
+PASSED
+Compare Table course_groups_courseusergrouppartitiongroup
+PASSED
+Compare Table course_modes_coursemode
+PASSED
+Compare Table course_modes_coursemodesarchive
+PASSED
+Compare Table courseware_course_subject
+PASSED
+Compare Table courseware_offlinecomputedgrade
+PASSED
+Compare Table courseware_offlinecomputedgradelog
+PASSED
+Compare Table courseware_organization
+PASSED
+Compare Table courseware_studentmodule
+PASSED
+Compare Table courseware_studentmodulehistory
+PASSED
+Compare Table courseware_subject
+PASSED
+Compare Table courseware_xmodulestudentinfofield
+PASSED
+Compare Table courseware_xmodulestudentprefsfield
+PASSED
+Compare Table courseware_xmoduleuserstatesummaryfield
+PASSED
+Compare Table dark_lang_darklangconfig
+PASSED
+Compare Table django_admin_log
+PASSED
+Compare Table django_comment_client_permission
+PASSED
+Compare Table django_comment_client_permission_roles
+PASSED
+Compare Table django_comment_client_role
+PASSED
+Compare Table django_comment_client_role_users
+PASSED
+Compare Table django_content_type
+PASSED
+Compare Table django_openid_auth_association
+PASSED
+Compare Table django_openid_auth_nonce
+PASSED
+Compare Table django_openid_auth_useropenid
+PASSED
+Compare Table django_session
+PASSED
+Compare Table django_site
+PASSED
+Compare Table djcelery_crontabschedule
+PASSED
+Compare Table djcelery_intervalschedule
+PASSED
+Compare Table djcelery_periodictask
+PASSED
+Compare Table djcelery_periodictasks
+PASSED
+Compare Table djcelery_taskstate
+PASSED
+Compare Table djcelery_workerstate
+PASSED
+Compare Table edxval_coursevideo
+PASSED
+Compare Table edxval_encodedvideo
+PASSED
+Compare Table edxval_profile
+PASSED
+Compare Table edxval_subtitle
+PASSED
+Compare Table edxval_video
+PASSED
+Compare Table embargo_embargoedcourse
+PASSED
+Compare Table embargo_embargoedstate
+PASSED
+Compare Table embargo_ipfilter
+PASSED
+Compare Table external_auth_externalauthmap
+PASSED
+Compare Table foldit_puzzlecomplete
+PASSED
+Compare Table foldit_score
+PASSED
+Compare Table instructor_task_instructortask
+PASSED
+Compare Table licenses_coursesoftware
+PASSED
+Compare Table licenses_userlicense
+PASSED
+Compare Table linkedin_linkedin
+PASSED
+Compare Table lms_xblock_xblockasidesconfig
+PASSED
+Compare Table notes_note
+PASSED
+Compare Table notifications_articlesubscription
+PASSED
+Compare Table notify_notification
+PASSED
+Compare Table notify_notificationtype
+PASSED
+Compare Table notify_settings
+PASSED
+Compare Table notify_subscription
+PASSED
+Compare Table oauth2_accesstoken
+PASSED
+Compare Table oauth2_client
+PASSED
+Compare Table oauth2_grant
+PASSED
+Compare Table oauth2_provider_trustedclient
+PASSED
+Compare Table oauth2_refreshtoken
+PASSED
+Compare Table psychometrics_psychometricdata
+PASSED
+Compare Table reverification_midcoursereverificationwindow
+PASSED
+Compare Table shoppingcart_certificateitem
+PASSED
+Compare Table shoppingcart_coupon
+PASSED
+Compare Table shoppingcart_couponredemption
+PASSED
+Compare Table shoppingcart_courseregcodeitem
+PASSED
+Compare Table shoppingcart_courseregcodeitemannotation
+PASSED
+Compare Table shoppingcart_courseregistrationcode
+PASSED
+Compare Table shoppingcart_donation
+PASSED
+Compare Table shoppingcart_donationconfiguration
+PASSED
+Compare Table shoppingcart_invoice
+PASSED
+Compare Table shoppingcart_order
+PASSED
+Compare Table shoppingcart_orderitem
+PASSED
+Compare Table shoppingcart_paidcourseregistration
+PASSED
+Compare Table shoppingcart_paidcourseregistrationannotation
+PASSED
+Compare Table shoppingcart_registrationcoderedemption
+PASSED
+Compare Table south_migrationhistory
+PASSED
+Compare Table splash_splashconfig
+PASSED
+Compare Table student_anonymoususerid
+PASSED
+************************Changed Table Report*************************
+
+Compare Table assessment_aiclassifier
+PASSED
+Compare Table assessment_aiclassifierset
+PASSED
+Compare Table assessment_aigradingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow_training_examples
+PASSED
+Compare Table assessment_assessment
+PASSED
+Compare Table assessment_assessmentfeedback
+PASSED
+Compare Table assessment_assessmentfeedback_assessments
+PASSED
+Compare Table assessment_assessmentfeedback_options
+PASSED
+Compare Table assessment_assessmentfeedbackoption
+PASSED
+Compare Table assessment_assessmentpart
+PASSED
+Compare Table assessment_criterion
+PASSED
+Compare Table assessment_criterionoption
+PASSED
+Compare Table assessment_peerworkflow
+FAILED
+deleted_rec :  3161
+added_rec :  3161
+changed_rec : 3161
+Compare Table assessment_peerworkflowitem
+PASSED
+Compare Table assessment_rubric
+PASSED
