@@ -1,0 +1,398 @@
+************************Changed Table Report*************************
+
+Compare Table assessment_aiclassifier
+PASSED
+Compare Table assessment_aiclassifierset
+PASSED
+Compare Table assessment_aigradingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow_training_examples
+PASSED
+Compare Table assessment_assessment
+PASSED
+Compare Table assessment_assessmentfeedback
+PASSED
+Compare Table assessment_assessmentfeedback_assessments
+PASSED
+Compare Table assessment_assessmentfeedback_options
+PASSED
+Compare Table assessment_assessmentfeedbackoption
+PASSED
+Compare Table assessment_assessmentpart
+PASSED
+Compare Table assessment_criterion
+PASSED
+Compare Table assessment_criterionoption
+PASSED
+Compare Table assessment_peerworkflow
+PASSED
+Compare Table assessment_peerworkflowitem
+PASSED
+Compare Table assessment_rubric
+PASSED
+Compare Table assessment_studenttrainingworkflow
+PASSED
+Compare Table assessment_studenttrainingworkflowitem
+PASSED
+Compare Table assessment_trainingexample
+PASSED
+Compare Table assessment_trainingexample_options_selected
+PASSED
+Compare Table auth_group
+PASSED
+Compare Table auth_group_permissions
+PASSED
+Compare Table auth_permission
+PASSED
+Compare Table auth_registration
+PASSED
+Compare Table auth_user
+PASSED
+Compare Table auth_user_groups
+PASSED
+Compare Table auth_user_user_permissions
+PASSED
+Compare Table auth_userprofile
+PASSED
+Compare Table bulk_email_courseauthorization
+PASSED
+Compare Table bulk_email_courseemail
+PASSED
+Compare Table bulk_email_courseemailtemplate
+PASSED
+Compare Table bulk_email_optout
+PASSED
+Compare Table celery_taskmeta
+PASSED
+Compare Table celery_tasksetmeta
+PASSED
+Compare Table certificates_certificatewhitelist
+PASSED
+Compare Table certificates_generatedcertificate
+PASSED
+Compare Table circuit_servercircuit
+PASSED
+Compare Table course_action_state_coursererunstate
+PASSED
+Compare Table course_creators_coursecreator
+PASSED
+Compare Table course_groups_courseusergroup
+PASSED
+Compare Table course_groups_courseusergroup_users
+PASSED
+Compare Table course_groups_courseusergrouppartitiongroup
+PASSED
+Compare Table course_modes_coursemode
+PASSED
+Compare Table course_modes_coursemodesarchive
+PASSED
+Compare Table courseware_course_subject
+PASSED
+Compare Table courseware_offlinecomputedgrade
+PASSED
+Compare Table courseware_offlinecomputedgradelog
+PASSED
+Compare Table courseware_organization
+PASSED
+Compare Table courseware_studentmodule
+PASSED
+Compare Table courseware_studentmodulehistory
+PASSED
+Compare Table courseware_subject
+PASSED
+Compare Table courseware_xmodulestudentinfofield
+PASSED
+Compare Table courseware_xmodulestudentprefsfield
+PASSED
+Compare Table courseware_xmoduleuserstatesummaryfield
+PASSED
+Compare Table dark_lang_darklangconfig
+PASSED
+Compare Table django_admin_log
+PASSED
+Compare Table django_comment_client_permission
+PASSED
+Compare Table django_comment_client_permission_roles
+PASSED
+Compare Table django_comment_client_role
+PASSED
+Compare Table django_comment_client_role_users
+PASSED
+Compare Table django_content_type
+PASSED
+Compare Table django_openid_auth_association
+PASSED
+Compare Table django_openid_auth_nonce
+PASSED
+Compare Table django_openid_auth_useropenid
+PASSED
+Compare Table django_session
+PASSED
+Compare Table django_site
+PASSED
+Compare Table djcelery_crontabschedule
+PASSED
+Compare Table djcelery_intervalschedule
+PASSED
+Compare Table djcelery_periodictask
+PASSED
+Compare Table djcelery_periodictasks
+PASSED
+Compare Table djcelery_taskstate
+PASSED
+Compare Table djcelery_workerstate
+PASSED
+Compare Table edxval_coursevideo
+PASSED
+Compare Table edxval_encodedvideo
+PASSED
+Compare Table edxval_profile
+PASSED
+Compare Table edxval_subtitle
+PASSED
+Compare Table edxval_video
+PASSED
+Compare Table embargo_embargoedcourse
+PASSED
+Compare Table embargo_embargoedstate
+PASSED
+Compare Table embargo_ipfilter
+PASSED
+Compare Table external_auth_externalauthmap
+PASSED
+Compare Table foldit_puzzlecomplete
+PASSED
+Compare Table foldit_score
+PASSED
+Compare Table instructor_task_instructortask
+PASSED
+Compare Table licenses_coursesoftware
+PASSED
+Compare Table licenses_userlicense
+PASSED
+Compare Table linkedin_linkedin
+PASSED
+Compare Table lms_xblock_xblockasidesconfig
+PASSED
+Compare Table notes_note
+PASSED
+Compare Table notifications_articlesubscription
+PASSED
+Compare Table notify_notification
+PASSED
+Compare Table notify_notificationtype
+PASSED
+Compare Table notify_settings
+PASSED
+Compare Table notify_subscription
+PASSED
+Compare Table oauth2_accesstoken
+PASSED
+Compare Table oauth2_client
+PASSED
+Compare Table oauth2_grant
+PASSED
+Compare Table oauth2_provider_trustedclient
+PASSED
+Compare Table oauth2_refreshtoken
+PASSED
+Compare Table psychometrics_psychometricdata
+PASSED
+Compare Table reverification_midcoursereverificationwindow
+PASSED
+Compare Table shoppingcart_certificateitem
+PASSED
+Compare Table shoppingcart_coupon
+PASSED
+************************Changed Table Report*************************
+
+Compare Table shoppingcart_couponredemption
+Compare Table assessment_aiclassifier
+PASSED
+Compare Table assessment_aiclassifierset
+PASSED
+Compare Table assessment_aigradingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow
+PASSED
+Compare Table assessment_aitrainingworkflow_training_examples
+PASSED
+Compare Table assessment_assessment
+PASSED
+Compare Table assessment_assessmentfeedback
+PASSED
+Compare Table assessment_assessmentfeedback_assessments
+PASSED
+Compare Table assessment_assessmentfeedback_options
+PASSED
+Compare Table assessment_assessmentfeedbackoption
+PASSED
+Compare Table assessment_assessmentpart
+PASSED
+Compare Table assessment_criterion
+PASSED
+Compare Table assessment_criterionoption
+PASSED
+Compare Table assessment_peerworkflow
+PASSED
+Compare Table assessment_peerworkflowitem
+PASSED
+Compare Table assessment_rubric
+PASSED
+Compare Table assessment_studenttrainingworkflow
+PASSED
+Compare Table assessment_studenttrainingworkflowitem
+PASSED
+Compare Table assessment_trainingexample
+PASSED
+Compare Table assessment_trainingexample_options_selected
+PASSED
+Compare Table auth_group
+PASSED
+Compare Table auth_group_permissions
+PASSED
+Compare Table auth_permission
+PASSED
+Compare Table auth_registration
+PASSED
+Compare Table auth_user
+PASSED
+Compare Table auth_user_groups
+PASSED
+Compare Table auth_user_user_permissions
+PASSED
+Compare Table auth_userprofile
+PASSED
+Compare Table bulk_email_courseauthorization
+PASSED
+Compare Table bulk_email_courseemail
+PASSED
+Compare Table bulk_email_courseemailtemplate
+PASSED
+Compare Table bulk_email_optout
+PASSED
+Compare Table celery_taskmeta
+PASSED
+Compare Table celery_tasksetmeta
+PASSED
+Compare Table certificates_certificatewhitelist
+PASSED
+Compare Table certificates_generatedcertificate
+PASSED
+Compare Table circuit_servercircuit
+PASSED
+Compare Table course_action_state_coursererunstate
+PASSED
+Compare Table course_creators_coursecreator
+PASSED
+Compare Table course_groups_courseusergroup
+PASSED
+Compare Table course_groups_courseusergroup_users
+PASSED
+Compare Table course_groups_courseusergrouppartitiongroup
+PASSED
+Compare Table course_modes_coursemode
+PASSED
+Compare Table course_modes_coursemodesarchive
+PASSED
+Compare Table courseware_course_subject
+PASSED
+Compare Table courseware_offlinecomputedgrade
+PASSED
+Compare Table courseware_offlinecomputedgradelog
+PASSED
+Compare Table courseware_organization
+PASSED
+Compare Table courseware_studentmodule
+PASSED
+Compare Table courseware_studentmodulehistory
+PASSED
+Compare Table courseware_subject
+PASSED
+Compare Table courseware_xmodulestudentinfofield
+PASSED
+Compare Table courseware_xmodulestudentprefsfield
+PASSED
+Compare Table courseware_xmoduleuserstatesummaryfield
+PASSED
+Compare Table dark_lang_darklangconfig
+PASSED
+Compare Table django_admin_log
+PASSED
+Compare Table django_comment_client_permission
+PASSED
+Compare Table django_comment_client_permission_roles
+PASSED
+Compare Table django_comment_client_role
+PASSED
+Compare Table django_comment_client_role_users
+PASSED
+Compare Table django_content_type
+PASSED
+Compare Table django_openid_auth_association
+PASSED
+Compare Table django_openid_auth_nonce
+PASSED
+Compare Table django_openid_auth_useropenid
+PASSED
+Compare Table django_session
+PASSED
+Compare Table django_site
+PASSED
+Compare Table djcelery_crontabschedule
+PASSED
+Compare Table djcelery_intervalschedule
+PASSED
+Compare Table djcelery_periodictask
+PASSED
+Compare Table djcelery_periodictasks
+PASSED
+Compare Table djcelery_taskstate
+PASSED
+Compare Table djcelery_workerstate
+PASSED
+Compare Table edxval_coursevideo
+PASSED
+Compare Table edxval_encodedvideo
+PASSED
+Compare Table edxval_profile
+PASSED
+Compare Table edxval_subtitle
+PASSED
+Compare Table edxval_video
+PASSED
+Compare Table embargo_embargoedcourse
+PASSED
+Compare Table embargo_embargoedstate
+PASSED
+Compare Table embargo_ipfilter
+PASSED
+Compare Table external_auth_externalauthmap
+PASSED
+Compare Table foldit_puzzlecomplete
+PASSED
+Compare Table foldit_score
+PASSED
+Compare Table instructor_task_instructortask
+PASSED
+Compare Table licenses_coursesoftware
+PASSED
+Compare Table licenses_userlicense
+PASSED
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
+************************New Table Report************************
